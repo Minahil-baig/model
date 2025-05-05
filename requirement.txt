@@ -1,0 +1,5 @@
+# model
+streamlit
+joblib
+numpy
+scikit-learn
